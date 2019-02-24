@@ -24,8 +24,6 @@ class Ticket:
         self.check_in = check_in
 
 
-
- 
 #Test Data
 tickets = [
     Ticket("Matt Evans", "mevans@stc.school.nz","27.01.1988", False),
